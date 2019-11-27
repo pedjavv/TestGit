@@ -1,1 +1,4 @@
 my first text file
+this is second line
+treci red
+cetvrti itd
